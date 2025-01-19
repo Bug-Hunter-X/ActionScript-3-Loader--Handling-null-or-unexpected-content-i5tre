@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 error: failing to handle cases where the content loaded by a Loader isn't what's expected. The `bug.as` file shows the problematic code, which crashes if the loaded content is not a Bitmap. The `bugSolution.as` file provides a corrected version that robustly handles potential errors.
